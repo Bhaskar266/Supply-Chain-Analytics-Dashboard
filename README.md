@@ -3,6 +3,7 @@
 ![Executive Overview](Dashboard%20Screenshots/1_executive_overview.png)
 
 
+
 ## 📌 Project Overview
 
 This End-to-End Supply Chain Analytics project analyzes inventory performance, supplier efficiency, logistics operations, and profitability using Python, SQL, and Power BI.
@@ -41,7 +42,10 @@ The project transforms raw supply chain data into actionable business insights t
 - Shipping Cost Analysis
 - Defect Rate Monitoring
 
+
 ![Inventory & Supplier Analysis](Dashboard%20Screenshots/2_inventory_supplier_analysis.png)
+
+
 
 
 ---
@@ -54,7 +58,9 @@ The project transforms raw supply chain data into actionable business insights t
 - Quality Inspection Analysis
 - Defect Rate Assessment
 
-![Inventory & Supplier Analysis](screenshots/2_inventory_supplier_analysis.png)
+![Logistics & Profitability Analysis](Dashboard%20Screenshots/3_logistics_profitability_analysis.png)
+
+
 
 ---
 
@@ -66,7 +72,7 @@ The project transforms raw supply chain data into actionable business insights t
 - Profit Margin Analysis
 - Logistics Performance Monitoring
 
-![Logistics & Profitability Analysis](Dashboard%20Screenshots/3_logistics_profitability_analysis.png)
+![Business Insights](Dashboard%20Screenshots/4_business_insights.png)
 
 
 ### 4️⃣ Business Insights & Recommendations
