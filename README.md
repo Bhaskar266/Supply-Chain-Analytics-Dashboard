@@ -167,7 +167,7 @@ supply-chain-analytics-dashboard/
 
 **BHASKAR S**
 
-Aspiring Data Analyst | SQL | Power BI | Python | Excel | Business Intelligence
+Aspiring Data Analyst | SQL | Power BI| Excel | Business Intelligence
 
 ---
 
