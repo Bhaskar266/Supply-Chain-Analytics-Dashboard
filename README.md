@@ -1,6 +1,7 @@
 # 🚚 Supply Chain Analytics Dashboard
 
-![Executive Overview](screenshots/1_executive_overview.png)
+![Executive Overview](Dashboard%20Screenshots/1_executive_overview.png)
+
 
 ## 📌 Project Overview
 
@@ -40,7 +41,8 @@ The project transforms raw supply chain data into actionable business insights t
 - Shipping Cost Analysis
 - Defect Rate Monitoring
 
-![Executive Overview](screenshots/1_executive_overview.png)
+![Inventory & Supplier Analysis](Dashboard%20Screenshots/2_inventory_supplier_analysis.png)
+
 
 ---
 
@@ -64,9 +66,8 @@ The project transforms raw supply chain data into actionable business insights t
 - Profit Margin Analysis
 - Logistics Performance Monitoring
 
-![Logistics & Profitability Analysis](screenshots/3_logistics_profitability_analysis.png)
+![Logistics & Profitability Analysis](Dashboard%20Screenshots/3_logistics_profitability_analysis.png)
 
----
 
 ### 4️⃣ Business Insights & Recommendations
 
@@ -75,7 +76,7 @@ The project transforms raw supply chain data into actionable business insights t
 - Strategic Recommendations
 - Business Improvement Opportunities
 
-![Business Insights](screenshots/4_business_insights.png)
+![Business Insights](Dashboard%20Screenshots/4_business_insights.png)
 
 ---
 
